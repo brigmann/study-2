@@ -16,6 +16,7 @@ void count(string str1, string str2)
 
 		// This will check if str1[i]
 		// is present in str2 or not
+		// ?
 		// str2.find(str1[i]) returns - 1 if not found
 		// otherwise it returns the starting occurrence
 		// index of that character in str2
